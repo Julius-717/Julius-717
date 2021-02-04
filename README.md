@@ -1,8 +1,5 @@
 ### Hello, I'm Julius but you can call me Kash!!! 👋
 
-<!--
-**Julius-717/Julius-717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 A Software Developer, Machine Learning and Artificial Intelligence Enthusiast:
 
 - 🔭 I’m currently working on Machine Learning and Some AI
