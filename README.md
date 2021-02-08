@@ -4,7 +4,7 @@ A Software Developer, Machine Learning and Artificial Intelligence Enthusiast:
 
 - 🔭 I’m currently working on Machine Learning and Some AI
 - 🌱 I’m currently learning Statistics for Data Science
-- 😄 Pronouns: Him/Her...
+- 😄 Pronouns: Him...
 - ⚡ Fun fact: Music helps me when I'm coding!!!
 
 ![Kash](https://logos.flamingtext.com/Name-Logos/Kash-design-hogwarts-name.gif)
